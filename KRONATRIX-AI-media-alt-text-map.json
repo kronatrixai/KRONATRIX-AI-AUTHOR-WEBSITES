@@ -1,0 +1,181 @@
+{
+  "instructions": "Upload the assets folder to the root of the GitHub repository so paths like assets/spencer-aurelius-kronatrix-ai-author-website-mascot-reading-book.webp work. Image alt text is applied in HTML, so use this map when rebuilding the page.",
+  "image_alt_text": [
+    {
+      "filename": "kronatrix-ai-author-websites-logo.webp",
+      "alt": "KRONATRIX.AI logo for AI-readable author websites, free ebook websites and book promotion websites built for Google clarity.",
+      "use": "Main site logo / brand mark"
+    },
+    {
+      "filename": "kronatrix-ai-author-websites-logo.png",
+      "alt": "KRONATRIX.AI logo for author website services, ebook reader websites and book promotion websites for authors.",
+      "use": "Fallback logo / social sharing image"
+    },
+    {
+      "filename": "kronatrix-ai-author-logo.webp",
+      "alt": "KRONATRIX.AI author website logo for Google-ready and AI-readable author discovery services.",
+      "use": "Alternate logo"
+    },
+    {
+      "filename": "kronatrix-ai-author-logo.png",
+      "alt": "KRONATRIX.AI author website logo for author visibility checks, ebook websites and book promotion websites.",
+      "use": "Alternate logo fallback"
+    },
+    {
+      "filename": "kronatrix-ai-logo-icon.webp",
+      "alt": "KRONATRIX.AI blue K icon for AI-readable author website services.",
+      "use": "Small icon"
+    },
+    {
+      "filename": "kronatrix-ai-author-websites-og.webp",
+      "alt": "KRONATRIX.AI for Authors social preview image with brand logo and Spencer Aurelius mascot for author websites and ebook sites.",
+      "use": "Open Graph / social preview image"
+    },
+    {
+      "filename": "spencer-aurelius-kronatrix-ai-author-website-mascot-reading-book.webp",
+      "alt": "Spencer Aurelius, the KRONATRIX.AI mascot, reading a book to represent AI-readable author websites, free ebook websites and book promotion websites for authors.",
+      "use": "Hero mascot image"
+    },
+    {
+      "filename": "cornelius-aurelius-kronatrix-ai-creator.webp",
+      "alt": "Cornelius Aurelius, creator of KRONATRIX.AI, associated with author website strategy, marketing, sales, reader conversion and AI-readable website positioning.",
+      "use": "Founder / creator profile image"
+    },
+    {
+      "filename": "kronatrix-ai-main-website-brand-graphic.webp",
+      "alt": "KRONATRIX.AI main website brand graphic showing the wider website-building service for all niches beyond author websites.",
+      "use": "Main KRONATRIX.AI site link card"
+    },
+    {
+      "filename": "kronatrix-ai-author-website-explainer-poster.webp",
+      "alt": "Video poster for The New Era of Discovery explainer showing why authors need a clear website and KRONATRIX.AI author website strategy.",
+      "use": "Video poster / thumbnail"
+    },
+    {
+      "filename": "kronatrix-ai-author-website-explainer-poster.jpg",
+      "alt": "Poster image for The New Era of Discovery KRONATRIX.AI author website explainer video.",
+      "use": "Video poster fallback"
+    },
+    {
+      "filename": "proof-is-king-promo-site-cover.webp",
+      "alt": "Proof Is King promotional book website example built by KRONATRIX.AI to show author and book promotion site capability.",
+      "use": "Live promotional book site example card"
+    },
+    {
+      "filename": "why-you-keep-choosing-promo-site-cover.webp",
+      "alt": "Why You Keep Choosing the Wrong People promotional book website example by KRONATRIX.AI for author book marketing proof.",
+      "use": "Live promotional book site example card"
+    },
+    {
+      "filename": "continuation-code-promo-site-cover.webp",
+      "alt": "The Continuation Code ebook and book website example by KRONATRIX.AI showing free-to-read ebook site structure for authors.",
+      "use": "Live ebook/book site example card"
+    },
+    {
+      "filename": "become-worth-paying-promo-site-cover.webp",
+      "alt": "Become Worth Paying promotional book website example by KRONATRIX.AI showing author website and book promotion layout proof.",
+      "use": "Live promotional book site example card"
+    },
+    {
+      "filename": "hubspot-social-media-certified-kronatrix-ai.webp",
+      "alt": "HubSpot Social Media Certification proof for KRONATRIX.AI, supporting social media strategy and online visibility for author websites.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "google-analytics-individual-qualification-kronatrix-ai.webp",
+      "alt": "Google Analytics Individual Qualification certificate for KRONATRIX.AI, supporting analytics-aware author website strategy and Google-ready structure.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "google-ads-search-certification-kronatrix-ai.webp",
+      "alt": "Google Ads Search Certification proof for KRONATRIX.AI, supporting search intent, author visibility and Google-ready website planning.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "google-ads-display-certification-kronatrix-ai.webp",
+      "alt": "Google Ads Display Certification proof for KRONATRIX.AI, supporting display advertising awareness and author promotion website strategy.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "google-ads-video-certification-kronatrix-ai.webp",
+      "alt": "Google Ads Video Certification proof for KRONATRIX.AI, supporting video marketing strategy for author websites and book promotion pages.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "campaign-manager-certification-exam-kronatrix-ai.webp",
+      "alt": "Campaign Manager Certification proof for KRONATRIX.AI, supporting campaign planning and digital marketing structure for author website clients.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "shopping-ads-certification-kronatrix-ai.webp",
+      "alt": "Shopping Ads Certification proof for KRONATRIX.AI, supporting product listing and book offer clarity for author websites.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "creative-certification-exam-kronatrix-ai.webp",
+      "alt": "Creative Certification proof for KRONATRIX.AI, supporting visual marketing, creative messaging and conversion-focused author website design.",
+      "use": "Certification proof card"
+    },
+    {
+      "filename": "favicon.ico",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "favicon.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "favicon-16x16.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "favicon-32x32.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "favicon-48x48.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "favicon-96x96.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "apple-touch-icon.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "android-chrome-192x192.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "android-chrome-512x512.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "kronatrix-ai-favicon.png",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    },
+    {
+      "filename": "kronatrix-ai-icon.svg",
+      "alt": "KRONATRIX.AI favicon and app icon for author website service branding.",
+      "use": "Browser favicon / app icon; normally no HTML alt attribute needed"
+    }
+  ],
+  "video": {
+    "filename": "kronatrix-ai-author-website-explainer-video.mp4",
+    "title": "The New Era of Discovery \u2014 KRONATRIX.AI Author Website Explainer",
+    "description": "Explainer video for authors showing why a clear author website matters and how KRONATRIX.AI helps with author visibility, reader clarity, Google-ready structure and AI-readable discovery.",
+    "use": "Author website explainer video section"
+  }
+}

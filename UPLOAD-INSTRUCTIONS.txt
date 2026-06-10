@@ -1,0 +1,17 @@
+KRONATRIX.AI AUTHOR WEBSITE CONTENT ASSETS
+
+This ZIP contains media content only, not the full website.
+
+Upload the assets folder to the root of this GitHub repository:
+https://github.com/kronatrixai/KRONATRIX-AI-AUTHOR-WEBSITES
+
+Correct GitHub file paths should look like:
+assets/spencer-aurelius-kronatrix-ai-author-website-mascot-reading-book.webp
+assets/cornelius-aurelius-kronatrix-ai-creator.webp
+assets/kronatrix-ai-author-website-explainer-video.mp4
+assets/kronatrix-ai-author-website-explainer-poster.webp
+
+Do not upload only the files without the assets folder if the website HTML references assets/... paths.
+Do not upload the folder as assets/assets.
+
+After the assets are live on GitHub, the website can be rebuilt to point to these exact filenames.

@@ -1,0 +1,181 @@
+KRONATRIX.AI AUTHOR WEBSITE MEDIA ASSET MAP
+
+Upload the assets folder to the GitHub repository root. Do not upload these files inside an extra nested folder.
+
+ALT TEXT TO USE IN THE HTML
+
+FILE: assets/kronatrix-ai-author-websites-logo.webp
+ALT: KRONATRIX.AI logo for AI-readable author websites, free ebook websites and book promotion websites built for Google clarity.
+USE: Main site logo / brand mark
+STATUS: YES | SIZE: 14.9 KB
+
+FILE: assets/kronatrix-ai-author-websites-logo.png
+ALT: KRONATRIX.AI logo for author website services, ebook reader websites and book promotion websites for authors.
+USE: Fallback logo / social sharing image
+STATUS: YES | SIZE: 176.3 KB
+
+FILE: assets/kronatrix-ai-author-logo.webp
+ALT: KRONATRIX.AI author website logo for Google-ready and AI-readable author discovery services.
+USE: Alternate logo
+STATUS: YES | SIZE: 14.4 KB
+
+FILE: assets/kronatrix-ai-author-logo.png
+ALT: KRONATRIX.AI author website logo for author visibility checks, ebook websites and book promotion websites.
+USE: Alternate logo fallback
+STATUS: YES | SIZE: 173.4 KB
+
+FILE: assets/kronatrix-ai-logo-icon.webp
+ALT: KRONATRIX.AI blue K icon for AI-readable author website services.
+USE: Small icon
+STATUS: YES | SIZE: 1.4 KB
+
+FILE: assets/kronatrix-ai-author-websites-og.webp
+ALT: KRONATRIX.AI for Authors social preview image with brand logo and Spencer Aurelius mascot for author websites and ebook sites.
+USE: Open Graph / social preview image
+STATUS: YES | SIZE: 16.8 KB
+
+FILE: assets/spencer-aurelius-kronatrix-ai-author-website-mascot-reading-book.webp
+ALT: Spencer Aurelius, the KRONATRIX.AI mascot, reading a book to represent AI-readable author websites, free ebook websites and book promotion websites for authors.
+USE: Hero mascot image
+STATUS: YES | SIZE: 176.1 KB
+
+FILE: assets/cornelius-aurelius-kronatrix-ai-creator.webp
+ALT: Cornelius Aurelius, creator of KRONATRIX.AI, associated with author website strategy, marketing, sales, reader conversion and AI-readable website positioning.
+USE: Founder / creator profile image
+STATUS: YES | SIZE: 5.1 KB
+
+FILE: assets/kronatrix-ai-main-website-brand-graphic.webp
+ALT: KRONATRIX.AI main website brand graphic showing the wider website-building service for all niches beyond author websites.
+USE: Main KRONATRIX.AI site link card
+STATUS: YES | SIZE: 147.4 KB
+
+FILE: assets/kronatrix-ai-author-website-explainer-poster.webp
+ALT: Video poster for The New Era of Discovery explainer showing why authors need a clear website and KRONATRIX.AI author website strategy.
+USE: Video poster / thumbnail
+STATUS: YES | SIZE: 29.4 KB
+
+FILE: assets/kronatrix-ai-author-website-explainer-poster.jpg
+ALT: Poster image for The New Era of Discovery KRONATRIX.AI author website explainer video.
+USE: Video poster fallback
+STATUS: YES | SIZE: 52.8 KB
+
+FILE: assets/proof-is-king-promo-site-cover.webp
+ALT: Proof Is King promotional book website example built by KRONATRIX.AI to show author and book promotion site capability.
+USE: Live promotional book site example card
+STATUS: YES | SIZE: 33.1 KB
+
+FILE: assets/why-you-keep-choosing-promo-site-cover.webp
+ALT: Why You Keep Choosing the Wrong People promotional book website example by KRONATRIX.AI for author book marketing proof.
+USE: Live promotional book site example card
+STATUS: YES | SIZE: 48.0 KB
+
+FILE: assets/continuation-code-promo-site-cover.webp
+ALT: The Continuation Code ebook and book website example by KRONATRIX.AI showing free-to-read ebook site structure for authors.
+USE: Live ebook/book site example card
+STATUS: YES | SIZE: 64.2 KB
+
+FILE: assets/become-worth-paying-promo-site-cover.webp
+ALT: Become Worth Paying promotional book website example by KRONATRIX.AI showing author website and book promotion layout proof.
+USE: Live promotional book site example card
+STATUS: YES | SIZE: 63.1 KB
+
+FILE: assets/hubspot-social-media-certified-kronatrix-ai.webp
+ALT: HubSpot Social Media Certification proof for KRONATRIX.AI, supporting social media strategy and online visibility for author websites.
+USE: Certification proof card
+STATUS: YES | SIZE: 30.3 KB
+
+FILE: assets/google-analytics-individual-qualification-kronatrix-ai.webp
+ALT: Google Analytics Individual Qualification certificate for KRONATRIX.AI, supporting analytics-aware author website strategy and Google-ready structure.
+USE: Certification proof card
+STATUS: YES | SIZE: 13.4 KB
+
+FILE: assets/google-ads-search-certification-kronatrix-ai.webp
+ALT: Google Ads Search Certification proof for KRONATRIX.AI, supporting search intent, author visibility and Google-ready website planning.
+USE: Certification proof card
+STATUS: YES | SIZE: 19.3 KB
+
+FILE: assets/google-ads-display-certification-kronatrix-ai.webp
+ALT: Google Ads Display Certification proof for KRONATRIX.AI, supporting display advertising awareness and author promotion website strategy.
+USE: Certification proof card
+STATUS: YES | SIZE: 16.5 KB
+
+FILE: assets/google-ads-video-certification-kronatrix-ai.webp
+ALT: Google Ads Video Certification proof for KRONATRIX.AI, supporting video marketing strategy for author websites and book promotion pages.
+USE: Certification proof card
+STATUS: YES | SIZE: 17.1 KB
+
+FILE: assets/campaign-manager-certification-exam-kronatrix-ai.webp
+ALT: Campaign Manager Certification proof for KRONATRIX.AI, supporting campaign planning and digital marketing structure for author website clients.
+USE: Certification proof card
+STATUS: YES | SIZE: 33.1 KB
+
+FILE: assets/shopping-ads-certification-kronatrix-ai.webp
+ALT: Shopping Ads Certification proof for KRONATRIX.AI, supporting product listing and book offer clarity for author websites.
+USE: Certification proof card
+STATUS: YES | SIZE: 18.8 KB
+
+FILE: assets/creative-certification-exam-kronatrix-ai.webp
+ALT: Creative Certification proof for KRONATRIX.AI, supporting visual marketing, creative messaging and conversion-focused author website design.
+USE: Certification proof card
+STATUS: YES | SIZE: 13.7 KB
+
+FILE: assets/favicon.ico
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 8.0 KB
+
+FILE: assets/favicon.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 17.6 KB
+
+FILE: assets/favicon-16x16.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 0.7 KB
+
+FILE: assets/favicon-32x32.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 2.3 KB
+
+FILE: assets/favicon-48x48.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 4.9 KB
+
+FILE: assets/favicon-96x96.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 17.7 KB
+
+FILE: assets/apple-touch-icon.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 59.1 KB
+
+FILE: assets/android-chrome-192x192.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 66.7 KB
+
+FILE: assets/android-chrome-512x512.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 375.0 KB
+
+FILE: assets/kronatrix-ai-favicon.png
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 17.6 KB
+
+FILE: assets/kronatrix-ai-icon.svg
+ALT: KRONATRIX.AI favicon and app icon for author website service branding.
+USE: Browser favicon / app icon; normally no HTML alt attribute needed
+STATUS: YES | SIZE: 0.3 KB
+
+VIDEO
+FILE: assets/kronatrix-ai-author-website-explainer-video.mp4
+TITLE: The New Era of Discovery — KRONATRIX.AI Author Website Explainer
+DESCRIPTION: Explainer video for authors showing why a clear author website matters and how KRONATRIX.AI helps with author visibility, reader clarity, Google-ready structure and AI-readable discovery.
+USE: Author website explainer video section
