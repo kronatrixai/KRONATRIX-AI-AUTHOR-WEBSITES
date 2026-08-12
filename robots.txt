@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://authors.kronatrix.co.uk/sitemap.xml
