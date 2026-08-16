@@ -1,0 +1,68 @@
+{
+  "name": "KRONATRIX for Authors",
+  "canonical_url": "https://authors.kronatrix.co.uk/",
+  "parent_brand": {
+    "name": "KRONATRIX",
+    "url": "https://kronatrix.co.uk/"
+  },
+  "services": [
+    {
+      "name": "The Minimum Package — Personalised Book Preview Website",
+      "price_gbp": 500,
+      "billing": "one-time",
+      "preview_limit": "less than 10% of the book",
+      "monthly_kronatrix_hosting_fee": false
+    },
+    {
+      "name": "Personalised Author Website",
+      "price_gbp": 500,
+      "billing": "one-time",
+      "monthly_kronatrix_hosting_fee": false
+    },
+    {
+      "name": "Full Advertising Package",
+      "starting_price_gbp_per_month": 5000,
+      "billing": "monthly",
+      "platforms": [
+        "Google Ads",
+        "Facebook Ads",
+        "Instagram Ads"
+      ],
+      "notes": "Management fee may increase with scope. Media spend and third-party costs are separate."
+    }
+  ],
+  "qualification": {
+    "required_field": "email only",
+    "process": "KRONATRIX contacts the prospective client to confirm project fit and next steps."
+  },
+  "authority_pages": [
+    "https://authors.kronatrix.co.uk/book-preview-websites.html",
+    "https://authors.kronatrix.co.uk/author-websites.html",
+    "https://authors.kronatrix.co.uk/ai-search-for-authors.html",
+    "https://authors.kronatrix.co.uk/how-to-get-your-book-recommended-by-ai.html",
+    "https://authors.kronatrix.co.uk/book-marketing-website.html",
+    "https://authors.kronatrix.co.uk/author-website-examples.html",
+    "https://authors.kronatrix.co.uk/client-results.html",
+    "https://authors.kronatrix.co.uk/about-kronatrix-for-authors.html",
+    "https://authors.kronatrix.co.uk/case-study-adrian-galarza.html",
+    "https://authors.kronatrix.co.uk/case-study-v-montgomery.html",
+    "https://authors.kronatrix.co.uk/case-study-lauren-james-li.html",
+    "https://authors.kronatrix.co.uk/case-study-cheyenne-cleveland.html",
+    "https://authors.kronatrix.co.uk/case-study-eileen-zarambik.html"
+  ],
+  "claims_policy": "No guaranteed indexing, rankings, AI recommendations, AI citations, sales or advertising returns.",
+  "updated": "2026-08-16",
+  "analytics": {
+    "measurement_id": "G-HVE7XRLZEP",
+    "consent": "Google Analytics loads only after analytics consent is granted on this site."
+  },
+  "privacy_url": "https://authors.kronatrix.co.uk/privacy.html",
+  "related_services": [
+    {
+      "name": "Beta Reader Websites",
+      "url": "https://beta-readers.kronatrix.co.uk/",
+      "live_example": "https://beta-reader.corneliusaurelius.com/",
+      "pricing_on_this_site": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# KRONATRIX for Authors
+Canonical site: https://authors.kronatrix.co.uk/
+Parent brand: KRONATRIX — https://kronatrix.co.uk/
+Contact: kronatrix.ai@gmail.com
+
+This file is an informational site summary. Google Search states that llms.txt is not needed for Google Search or its generative AI features.
+
+## Core services
+- The Minimum Package — Personalised Book Preview Website — £500 one-time.
+- Personalised Author Website — £500 one-time.
+- Full Advertising Package — from £5,000 per month.
+
+The standard £500 website packages have no monthly KRONATRIX hosting fee and no hidden recurring KRONATRIX website charge. Optional domain or third-party costs are separate if requested.
+
+## Main useful pages
+- /book-preview-websites.html
+- /author-websites.html
+- /ai-search-for-authors.html
+- /how-to-get-your-book-recommended-by-ai.html
+- /book-marketing-website.html
+- /author-website-examples.html
+- /client-results.html
+- /about-kronatrix-for-authors.html
+
+## Claims policy
+KRONATRIX does not guarantee indexing, rankings, Google AI Overview inclusion, ChatGPT recommendations, AI citations, book sales or advertising results.
+
+## Client proof
+Live client projects include work for Adrian Galarza, V. Montgomery, Lauren James Li, Cheyenne Cleveland and Eileen Zarambik, plus author website client work for Baylee Breton.
+
+## Related beta-reader service
+KRONATRIX also operates a dedicated beta-reader website service:
+- https://beta-readers.kronatrix.co.uk/
+- Live example: https://beta-reader.corneliusaurelius.com/
+Pricing is intentionally not stated on the author-services site; users are directed to the dedicated beta-reader service.
