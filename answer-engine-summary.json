@@ -53,8 +53,8 @@
   "claims_policy": "No guaranteed indexing, rankings, AI recommendations, AI citations, sales or advertising returns.",
   "updated": "2026-08-16",
   "analytics": {
-    "measurement_id": "G-HVE7XRLZEP",
-    "consent": "Google Analytics loads only after analytics consent is granted on this site."
+    "status": "disabled_on_public_site",
+    "reason": "No analytics pop-up is shown and Google Analytics is not loaded on this public version."
   },
   "privacy_url": "https://authors.kronatrix.co.uk/privacy.html",
   "related_services": [
@@ -64,5 +64,32 @@
       "live_example": "https://beta-reader.corneliusaurelius.com/",
       "pricing_on_this_site": false
     }
+  ],
+  "canonical_home": "https://authors.kronatrix.co.uk/",
+  "llms_txt": "https://authors.kronatrix.co.uk/llms.txt",
+  "technical_verification": {
+    "baseline_lighthouse_2026_08_16": {
+      "performance": 90,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 92,
+      "agentic-browsing": 67
+    },
+    "note": "Baseline relates to the prior live build and is used internally to guide this V2.1 upgrade."
+  },
+  "high_intent_guides": [
+    {
+      "query": "how to market my book",
+      "url": "https://authors.kronatrix.co.uk/how-to-market-my-book.html"
+    },
+    {
+      "query": "how to get more book sales on amazon",
+      "url": "https://authors.kronatrix.co.uk/how-to-get-more-book-sales-on-amazon.html"
+    }
+  ],
+  "ai_search_context_sources": [
+    "https://blog.google/products-and-platforms/products/search/new-controls-website-owners/",
+    "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "https://help.openai.com/en/articles/9237897-chatgpt-search"
   ]
 }

@@ -78,11 +78,20 @@
   <url>
     <loc>https://authors.kronatrix.co.uk/</loc>
     <lastmod>2026-08-16</lastmod>
+    <image:image><image:loc>https://authors.kronatrix.co.uk/kronatrix-official-blue-k-logo.png</image:loc></image:image>
     <image:image><image:loc>https://authors.kronatrix.co.uk/cheyenne-cleveland-remember-book-preview-website-kronatrix-full.webp</image:loc></image:image>
     <image:image><image:loc>https://authors.kronatrix.co.uk/eileen-zarambik-he-still-knows-my-name-book-preview-website-kronatrix-full.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://authors.kronatrix.co.uk/privacy.html</loc>
+    <lastmod>2026-08-16</lastmod>
+  </url>
+  <url>
+    <loc>https://authors.kronatrix.co.uk/how-to-market-my-book.html</loc>
+    <lastmod>2026-08-16</lastmod>
+  </url>
+  <url>
+    <loc>https://authors.kronatrix.co.uk/how-to-get-more-book-sales-on-amazon.html</loc>
     <lastmod>2026-08-16</lastmod>
   </url>
 </urlset>

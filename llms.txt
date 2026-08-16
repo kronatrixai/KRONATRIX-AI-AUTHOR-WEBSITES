@@ -1,35 +1,54 @@
 # KRONATRIX for Authors
-Canonical site: https://authors.kronatrix.co.uk/
-Parent brand: KRONATRIX — https://kronatrix.co.uk/
-Contact: kronatrix.ai@gmail.com
 
-This file is an informational site summary. Google Search states that llms.txt is not needed for Google Search or its generative AI features.
+> Official author and book website service from KRONATRIX. This file summarises the public site and points agents to the canonical pages.
+
+## Canonical entities
+- [KRONATRIX for Authors](https://authors.kronatrix.co.uk/) — personalised websites for authors and individual books.
+- [KRONATRIX](https://kronatrix.co.uk/) — parent brand.
+- Contact: kronatrix.ai@gmail.com
 
 ## Core services
-- The Minimum Package — Personalised Book Preview Website — £500 one-time.
-- Personalised Author Website — £500 one-time.
-- Full Advertising Package — from £5,000 per month.
+- [Personalised Book Preview Website](https://authors.kronatrix.co.uk/book-preview-websites.html) — £500 one-time. A dedicated destination for one book, with a controlled preview of less than 10%, purchase/follow/email-list pathways, and search/AI-readable public information.
+- [Personalised Author Website](https://authors.kronatrix.co.uk/author-websites.html) — £500 one-time. A long-term author home for biography, books, proof, social profiles, mailing list and reader pathways.
+- Full Advertising Package — from £5,000/month. Managed Google, Facebook and Instagram advertising; scope can increase the monthly fee and media spend is separate.
 
-The standard £500 website packages have no monthly KRONATRIX hosting fee and no hidden recurring KRONATRIX website charge. Optional domain or third-party costs are separate if requested.
+The two standard £500 website packages are one-time KRONATRIX website services with no monthly KRONATRIX hosting fee for the standard setup. Optional domains or other third-party costs are separate where requested.
 
-## Main useful pages
-- /book-preview-websites.html
-- /author-websites.html
-- /ai-search-for-authors.html
-- /how-to-get-your-book-recommended-by-ai.html
-- /book-marketing-website.html
-- /author-website-examples.html
-- /client-results.html
-- /about-kronatrix-for-authors.html
+## Useful pages
+- [Client websites and examples](https://authors.kronatrix.co.uk/author-website-examples.html)
+- [Client reviews and observed results](https://authors.kronatrix.co.uk/client-results.html)
+- [AI Search for Authors](https://authors.kronatrix.co.uk/ai-search-for-authors.html)
+- [How to Get Your Book Recommended by AI](https://authors.kronatrix.co.uk/how-to-get-your-book-recommended-by-ai.html)
+- [Book Marketing Website Guide](https://authors.kronatrix.co.uk/book-marketing-website.html)
+- [How to Market My Book](https://authors.kronatrix.co.uk/how-to-market-my-book.html)
+- [How to Get More Book Sales on Amazon](https://authors.kronatrix.co.uk/how-to-get-more-book-sales-on-amazon.html)
+- [About KRONATRIX for Authors](https://authors.kronatrix.co.uk/about-kronatrix-for-authors.html)
+- [Privacy](https://authors.kronatrix.co.uk/privacy.html)
+
+## Live client work
+- [Cheyenne Cleveland — Remember book preview](https://cheyennecleveland.kronatrix.co.uk/)
+- [Cheyenne Cleveland — author website](https://cheyenneclevelandbooks.github.io/)
+- [Adrian Galarza — Arduina](https://adriangalarzabooks.github.io/arduina-book-by-adrian-galarza-free-preview/)
+- [V. Montgomery — Shadowed Strings](https://vmontgomerywrites.github.io/shadowed-strings-book-by-v-montgomery/)
+- [Lauren James Li — Faharia](https://fahariabylaurenjamesli.github.io/faharia-book-by-lauren-james-li-free-preview/)
+- [Eileen Zarambik — He Still Knows My Name](https://eileenzarambikbooks.github.io/he-still-knows-my-name-book-by-eileen-zarambik-free-preview/)
+
+## Related KRONATRIX resources
+- [AI SEO](https://ai-seo.kronatrix.co.uk/)
+- [AEO](https://aeo.kronatrix.co.uk/)
+- [GEO](https://geo.kronatrix.co.uk/)
+- [AI Search](https://ai-search.kronatrix.co.uk/)
+- [AI Visibility Check](https://aivisibilitycheck.kronatrix.co.uk/)
+- [Get Recommended by AI](https://get-recommended-by-ai.kronatrix.co.uk/)
+- [Beta Reader Websites](https://beta-readers.kronatrix.co.uk/)
+- [Beta Reader live example](https://beta-reader.corneliusaurelius.com/)
 
 ## Claims policy
-KRONATRIX does not guarantee indexing, rankings, Google AI Overview inclusion, ChatGPT recommendations, AI citations, book sales or advertising results.
+KRONATRIX does not guarantee indexing, rankings, Google AI Overview inclusion, ChatGPT recommendations, AI citations, book sales, author fame, six-figure revenue or advertising results. The service improves controllable foundations: crawlability, clarity, useful content, real proof, structured information, user experience and conversion paths.
 
-## Client proof
-Live client projects include work for Adrian Galarza, V. Montgomery, Lauren James Li, Cheyenne Cleveland and Eileen Zarambik, plus author website client work for Baylee Breton.
+## Current AI-search context
+- [Google: New opportunities, control and insights for website owners](https://blog.google/products-and-platforms/products/search/new-controls-website-owners/) — June 2026; Google describes increased use of generative AI for finding and understanding information.
+- [Google Search I/O 2026 updates](https://blog.google/products-and-platforms/products/search/search-io-2026/) — May 2026; AI Mode growth and conversational Search.
+- [OpenAI: ChatGPT Search](https://help.openai.com/en/articles/9237897-chatgpt-search) — official explanation of ChatGPT web search.
 
-## Related beta-reader service
-KRONATRIX also operates a dedicated beta-reader website service:
-- https://beta-readers.kronatrix.co.uk/
-- Live example: https://beta-reader.corneliusaurelius.com/
-Pricing is intentionally not stated on the author-services site; users are directed to the dedicated beta-reader service.
+These external sources support the general shift toward conversational and AI-assisted discovery. They do not guarantee that KRONATRIX clients will be cited or recommended.

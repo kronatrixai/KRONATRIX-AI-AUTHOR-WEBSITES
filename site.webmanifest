@@ -5,5 +5,13 @@
   "scope": "/",
   "display": "standalone",
   "background_color": "#030711",
-  "theme_color": "#050914"
+  "theme_color": "#050914",
+  "icons": [
+    {
+      "src": "/kronatrix-official-blue-k-logo.png",
+      "sizes": "320x320",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
